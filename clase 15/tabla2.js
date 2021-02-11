@@ -7,7 +7,7 @@ listaAlimentos =  [
 {onmbre : "Pescado", vitaminas: "A, D",calorias: 206 },
 {nombre : "pan", vitaminas : "B1, B2 B6", calorias : 265}]
 
-deje    =  documento . querySelector ( '#tabla' )
+deje    =  document.querySelector ( '#tabla' )
 // console.log (tabla)
 let  contenidoTabla  =  '<tr> <th> Nombre </th> <th> Diámetro </th> <th> Imagen </th> </tr>'
 para  ( planeta  (tabla) ) 
