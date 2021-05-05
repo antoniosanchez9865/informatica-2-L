@@ -19,7 +19,7 @@ let ctx1 = canvas.getContext("2d")
 
 ctx1.fillStyle = "white"
 
-ctx1.fillStyle = "withe"
+ctx1.fillStyle = "white"
 
 ctx1.beginPath()
 
@@ -36,8 +36,3 @@ ctx1.fill()
 
 
 
-ctx1.fillStyle = "withe"
-ctx1.beginPath()
-ctx1.arc(182.5, 350, 6, 0, 2*Math.PI)
-ctx1.stroke()
-ctx1.fill()
